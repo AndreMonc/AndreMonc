@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my github page. Updates coming shortly.
 
 <!--
 **AndreMonc/AndreMonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
