@@ -1,4 +1,4 @@
-Welcome to my GitHub page. I am a postdoc at the Louisiana State University Museum of Natural Science where I study speciation of Neotropical birds 🦉🦜. In the repositories below you'll find mostly Python scripts for processing population genetic data. Feel free to send me an email with any questions at *andre.e.moncrieff [at] gmail [dot] com*.
+Welcome to my GitHub page. I am an assistant professor and curator of birds at the University of Oklahoma and Sam Noble Museum where I study speciation of Neotropical birds 🦉🦜. In the repositories below you'll find mostly Python scripts for processing population genetic data.
 
 
 <!--
